@@ -1,0 +1,20 @@
+
+body{
+    background: green;
+}
+
+/*  selector de clase */
+.azul{
+    color: blue;
+}
+
+.grande{
+    font-size: 80px;
+}
+
+/*  */
+
+/* selector de id */
+#marron{
+    color: rgb(106, 14, 14);
+}
